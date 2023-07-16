@@ -9,11 +9,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flame: ^1.8.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flame: ^1.8.0
   flame_lint: ^1.0.0
 
 flutter:
